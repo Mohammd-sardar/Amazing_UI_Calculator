@@ -1,0 +1,12 @@
+C:\Users\m.sidra\source\repos\Calculator UI\Calculator UI\bin\Debug\Calculator UI.exe.config
+C:\Users\m.sidra\source\repos\Calculator UI\Calculator UI\bin\Debug\Calculator UI.exe
+C:\Users\m.sidra\source\repos\Calculator UI\Calculator UI\bin\Debug\Calculator UI.pdb
+C:\Users\m.sidra\source\repos\Calculator UI\Calculator UI\bin\Debug\Guna.UI2.dll
+C:\Users\m.sidra\source\repos\Calculator UI\Calculator UI\obj\Debug\Calculator UI.csproj.AssemblyReference.cache
+C:\Users\m.sidra\source\repos\Calculator UI\Calculator UI\obj\Debug\Calculator_UI.Form1.resources
+C:\Users\m.sidra\source\repos\Calculator UI\Calculator UI\obj\Debug\Calculator_UI.Properties.Resources.resources
+C:\Users\m.sidra\source\repos\Calculator UI\Calculator UI\obj\Debug\Calculator UI.csproj.GenerateResource.cache
+C:\Users\m.sidra\source\repos\Calculator UI\Calculator UI\obj\Debug\Calculator UI.csproj.CoreCompileInputs.cache
+C:\Users\m.sidra\source\repos\Calculator UI\Calculator UI\obj\Debug\Calculator UI.csproj.CopyComplete
+C:\Users\m.sidra\source\repos\Calculator UI\Calculator UI\obj\Debug\Calculator UI.exe
+C:\Users\m.sidra\source\repos\Calculator UI\Calculator UI\obj\Debug\Calculator UI.pdb
